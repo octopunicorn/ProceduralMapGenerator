@@ -1,6 +1,6 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "FPMGRendererModule.h"
+#include "PMGRenderer.h"
 
 #define LOCTEXT_NAMESPACE "FPMGRendererModule"
 

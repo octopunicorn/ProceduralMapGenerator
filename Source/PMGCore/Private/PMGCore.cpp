@@ -1,6 +1,6 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "FPMGCoreModule.h"
+#include "PMGCore.h"
 
 #define LOCTEXT_NAMESPACE "FPMGCoreModule"
 
