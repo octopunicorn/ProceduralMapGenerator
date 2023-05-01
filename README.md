@@ -2,6 +2,37 @@
 
 The Procedural Map Generator Module is a plugin for Unreal Engine that allows for the dynamic generation of game maps using procedural algorithms. It provides a flexible framework for generating terrain, placing objects, defining paths, and laying out the map.
 
+## Work in Progress
+
+This project is currently in its early stages and is considered a work in progress. It is not yet feature-complete or stable. The purpose of this project is to develop a procedural map generator module for use in Unreal Engine games. The current focus is on setting up the project structure, implementing core functionalities, and establishing a foundation for further development.
+
+### Project Goals
+
+- Implement a flexible and modular procedural map generation system.
+- Support various types of map generation algorithms and strategies.
+- Provide a seamless integration with Unreal Engine and its existing systems.
+- Ensure high performance and scalability for generating large and complex maps.
+- Enable easy customization and extension for specific game requirements.
+
+### Current Status
+
+At this stage, the project is in the initial setup phase. The main tasks include:
+- Defining the project structure and module organization.
+- Setting up the core classes, interfaces, and dependencies.
+- Researching and prototyping different map generation algorithms and strategies.
+- Implementing basic functionality for generating terrain and biomes.
+
+### Roadmap and Next Steps
+
+In the near future, the project will focus on:
+- Refining the map generation algorithms and strategies.
+- Implementing additional map features, such as objects, props, and NPCs.
+- Adding support for customizable parameters and settings.
+- Incorporating performance optimizations and error handling.
+- Conducting thorough testing and refining the module based on feedback.
+
+Please note that the project is subject to changes and updates as development progresses. Contributions, feedback, and suggestions are welcome!
+
 ## Features
 
 - Terrain Generation: Generate realistic and diverse terrain features, such as mountains, valleys, and rivers.
