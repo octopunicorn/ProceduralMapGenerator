@@ -16,7 +16,7 @@
 	"Installed": false,
 	"Modules": [
 		{
-			"Name": "ProceduralMapGenerator",
+			"Name": "PMGMain",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		},
